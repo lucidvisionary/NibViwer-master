@@ -3,7 +3,9 @@
     "configurations": [
         {
             "name": "Launch",
-            "type": "node",
+            "type": "200"
+,
+            
             "request": "launch",
             "program": "${workspaceRoot}/app.js",
             "stopOnEntry": false,
